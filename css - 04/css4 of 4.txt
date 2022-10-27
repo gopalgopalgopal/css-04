@@ -1,0 +1,28 @@
+
+.navigation li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding : 20px;
+}
+
+.share a {
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  padding: 14px;
+}
+
+h2 {
+  border: 1px dotted red;
+  color: red;
+  font-size: 14px;
+  line-height: 48px;
+  text-align: center;
+  padding-top: 20px;
+  paddoing-bottom: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
